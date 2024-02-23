@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Soccer League Table.iml" filepath="$PROJECT_DIR$/.idea/modules/Soccer League Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Soccer League Table-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Soccer League Table-build.iml" />
+    </modules>
+  </component>
+</project>
